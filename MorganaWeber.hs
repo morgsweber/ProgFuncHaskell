@@ -8,12 +8,13 @@
     soma x y = x + y
     pares = filter even
     aplica f x = f x 
-
-segundo :: [A] -> A
-tripla  :: A -> [A]
-soma    :: A -> A -> A --Considerando que A pode ser um Int ou Double
-pares   :: [Int] -> [Int]
-aplica  :: (A->B) -> A -> B-}
+-}    
+--RESPOSTA:
+--segundo :: [A] -> A
+--tripla  :: A -> [A]
+--soma    :: A -> A -> A --Considerando que A pode ser um Int ou Double
+--pares   :: [Int] -> [Int]
+--aplica  :: (A->B) -> A -> B
 
 {-
     2) Defina as funções abaixo usando recursão
